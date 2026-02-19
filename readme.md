@@ -1,10 +1,10 @@
 
 # 4.1:
 ## 4.1.2:
-- between R1 & R2: 4.027mA !(20260219_123741.jpg)
+- between R1 & R2: 4.027mA ![](20260219_123741.jpg)
 ## 4.1.5
 - between R2 & R3: 4.804mA
-- ![[20260219_123907.jpg]]
+- ![](20260219_123907.jpg)
 ## 4.1.6:
 - R1 (1kohm): 3.386V
 - R2 (2kohm): 6.885V
@@ -22,7 +22,7 @@
 # 4.2:
 
 ## Circuit Diagram:
-![[Pasted image 20260219131321.png]]
+![]("Pasted image 20260219131321.png")
 
 
 ## Actual Circuit:
